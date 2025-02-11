@@ -9,4 +9,4 @@ sources:
       - name: product
         identifier: raw_gz_product_TA
       - name: ship
-        identifier: raw_gz_ship_TA
+        identifier: raw_gz_ship_TA 
